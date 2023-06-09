@@ -1,0 +1,124 @@
+Versão: a, Nível de Isolamento: READ COMMITTED
+ -> Simulação com 1 threads (agentes de viagem)
+    Tempo necessário para fazer todas as reservas: 214.23537039756775 segundos
+    Número de reservas: 200
+    Número de assentos não reservados: 0
+    Estatísticas de tentativas: Máximo: 0, Mínimo: 0, Médio: 0
+ -> Simulação com 2 threads (agentes de viagem)
+    Tempo necessário para fazer todas as reservas: 109.73052477836609 segundos
+    Número de reservas: 200
+    Número de assentos não reservados: 0
+    Estatísticas de tentativas: Máximo: 0, Mínimo: 0, Médio: 0
+ -> Simulação com 4 threads (agentes de viagem)
+    Tempo necessário para fazer todas as reservas: 60.49580430984497 segundos
+    Número de reservas: 200
+    Número de assentos não reservados: 0
+    Estatísticas de tentativas: Máximo: 0, Mínimo: 0, Médio: 0
+ -> Simulação com 6 threads (agentes de viagem)
+    Tempo necessário para fazer todas as reservas: 40.67706632614136 segundos
+    Número de reservas: 200
+    Número de assentos não reservados: 0
+    Estatísticas de tentativas: Máximo: 0, Mínimo: 0, Médio: 0
+ -> Simulação com 8 threads (agentes de viagem)
+    Tempo necessário para fazer todas as reservas: 32.46856069564819 segundos
+    Número de reservas: 200
+    Número de assentos não reservados: 0
+    Estatísticas de tentativas: Máximo: 0, Mínimo: 0, Médio: 0
+ -> Simulação com 10 threads (agentes de viagem)
+    Tempo necessário para fazer todas as reservas: 25.38943076133728 segundos
+    Número de reservas: 200
+    Número de assentos não reservados: 0
+    Estatísticas de tentativas: Máximo: 0, Mínimo: 0, Médio: 0
+Versão: a, Nível de Isolamento: SERIALIZABLE
+ -> Simulação com 1 threads (agentes de viagem)
+    Tempo necessário para fazer todas as reservas: 208.92976641654968 segundos
+    Número de reservas: 200
+    Número de assentos não reservados: 0
+    Estatísticas de tentativas: Máximo: 0, Mínimo: 0, Médio: 0
+ -> Simulação com 2 threads (agentes de viagem)
+    Tempo necessário para fazer todas as reservas: 109.49537754058838 segundos
+    Número de reservas: 200
+    Número de assentos não reservados: 0
+    Estatísticas de tentativas: Máximo: 0, Mínimo: 0, Médio: 0
+ -> Simulação com 4 threads (agentes de viagem)
+    Tempo necessário para fazer todas as reservas: 58.37720274925232 segundos
+    Número de reservas: 200
+    Número de assentos não reservados: 0
+    Estatísticas de tentativas: Máximo: 0, Mínimo: 0, Médio: 0
+ -> Simulação com 6 threads (agentes de viagem)
+    Tempo necessário para fazer todas as reservas: 40.925498247146606 segundos
+    Número de reservas: 200
+    Número de assentos não reservados: 0
+    Estatísticas de tentativas: Máximo: 0, Mínimo: 0, Médio: 0
+ -> Simulação com 8 threads (agentes de viagem)
+    Tempo necessário para fazer todas as reservas: 33.446739196777344 segundos
+    Número de reservas: 200
+    Número de assentos não reservados: 0
+    Estatísticas de tentativas: Máximo: 0, Mínimo: 0, Médio: 0
+ -> Simulação com 10 threads (agentes de viagem)
+    Tempo necessário para fazer todas as reservas: 26.316534280776978 segundos
+    Número de reservas: 200
+    Número de assentos não reservados: 0
+    Estatísticas de tentativas: Máximo: 0, Mínimo: 0, Médio: 0
+Versão: b, Nível de Isolamento: READ COMMITTED
+ -> Simulação com 1 threads (agentes de viagem)
+    Tempo necessário para fazer todas as reservas: 209.72537565231323 segundos
+    Número de reservas: 200
+    Número de assentos não reservados: 0
+    Estatísticas de tentativas: Máximo: 0, Mínimo: 0, Médio: 0
+ -> Simulação com 2 threads (agentes de viagem)
+    Tempo necessário para fazer todas as reservas: 110.51404428482056 segundos
+    Número de reservas: 200
+    Número de assentos não reservados: 0
+    Estatísticas de tentativas: Máximo: 0, Mínimo: 0, Médio: 0
+ -> Simulação com 4 threads (agentes de viagem)
+    Tempo necessário para fazer todas as reservas: 57.18909692764282 segundos
+    Número de reservas: 200
+    Número de assentos não reservados: 0
+    Estatísticas de tentativas: Máximo: 0, Mínimo: 0, Médio: 0
+ -> Simulação com 6 threads (agentes de viagem)
+    Tempo necessário para fazer todas as reservas: 41.64851689338684 segundos
+    Número de reservas: 200
+    Número de assentos não reservados: 0
+    Estatísticas de tentativas: Máximo: 0, Mínimo: 0, Médio: 0
+ -> Simulação com 8 threads (agentes de viagem)
+    Tempo necessário para fazer todas as reservas: 31.72209072113037 segundos
+    Número de reservas: 200
+    Número de assentos não reservados: 0
+    Estatísticas de tentativas: Máximo: 0, Mínimo: 0, Médio: 0
+ -> Simulação com 10 threads (agentes de viagem)
+    Tempo necessário para fazer todas as reservas: 28.547509908676147 segundos
+    Número de reservas: 200
+    Número de assentos não reservados: 0
+    Estatísticas de tentativas: Máximo: 0, Mínimo: 0, Médio: 0
+Versão: b, Nível de Isolamento: SERIALIZABLE
+ -> Simulação com 1 threads (agentes de viagem)
+    Tempo necessário para fazer todas as reservas: 212.0825493335724 segundos
+    Número de reservas: 200
+    Número de assentos não reservados: 0
+    Estatísticas de tentativas: Máximo: 0, Mínimo: 0, Médio: 0
+ -> Simulação com 2 threads (agentes de viagem)
+    Tempo necessário para fazer todas as reservas: 108.63145279884338 segundos
+    Número de reservas: 200
+    Número de assentos não reservados: 0
+    Estatísticas de tentativas: Máximo: 0, Mínimo: 0, Médio: 0
+ -> Simulação com 4 threads (agentes de viagem)
+    Tempo necessário para fazer todas as reservas: 57.38580250740051 segundos
+    Número de reservas: 200
+    Número de assentos não reservados: 0
+    Estatísticas de tentativas: Máximo: 0, Mínimo: 0, Médio: 0
+ -> Simulação com 6 threads (agentes de viagem)
+    Tempo necessário para fazer todas as reservas: 40.813750982284546 segundos
+    Número de reservas: 200
+    Número de assentos não reservados: 0
+    Estatísticas de tentativas: Máximo: 0, Mínimo: 0, Médio: 0
+ -> Simulação com 8 threads (agentes de viagem)
+    Tempo necessário para fazer todas as reservas: 33.63532614707947 segundos
+    Número de reservas: 200
+    Número de assentos não reservados: 0
+    Estatísticas de tentativas: Máximo: 0, Mínimo: 0, Médio: 0
+ -> Simulação com 10 threads (agentes de viagem)
+    Tempo necessário para fazer todas as reservas: 26.213703393936157 segundos
+    Número de reservas: 200
+    Número de assentos não reservados: 0
+    Estatísticas de tentativas: Máximo: 0, Mínimo: 0, Médio: 0
