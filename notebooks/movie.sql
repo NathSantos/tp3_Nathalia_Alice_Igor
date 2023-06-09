@@ -1,7 +1,5 @@
 drop table movie;
 
-commit;
-
 create table movie
 (
 	id smallint,
@@ -15,8 +13,6 @@ create table movie
 
 create index movie_title on movie(title);
 create index movie_votes on movie(votes);
-create index movie_yr on movie(yr);
-create index movie_director on movie(director);
 
 insert into movie values (1, 'Star Wars', 1977, 8.8, 53567, 360);
 insert into movie values (2, 'Shawshank Redemption, The', 1994, 9, 44974, 1040);
